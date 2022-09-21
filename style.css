@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("abstract-food-background-top-view-dark-rustic-kitchen-table-wooden-cutting-board-cooking-spoon-frame-banner-137304354.jpg");
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#container 
+{
+    text-align: center;
+}
+
+#images, #images2, #images3
+{
+    height: 200px;
+    width: 400px;
+}
+
+.cake .button 
+{
+    background-color: green;
+}
+
+

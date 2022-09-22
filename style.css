@@ -20,9 +20,32 @@ h1{
     width: 400px;
 }
 
-.cake .button 
+.cake, .chow, .shrimp
 {
-    background-color: green;
+    background-color: rgb(70, 173, 221);
+}
+
+#img , #img2 , #img3
+{
+    height: 200px;
+    width: 400px;
+}
+
+h3
+{
+    color: white;
+}
+
+.para
+{   
+    font-size: 150%;
+    color: rgb(252, 228, 19);
+}
+
+.list, .olist
+{   
+    font-size: 110%;
+    color: rgb(252, 228, 19);
 }
 
 
